@@ -8,7 +8,7 @@ coverY: 31.738478027867096
 
 I'm just a student who is interesting in DFIR.
 
-* From University of Information Technology - Vietnam National University 🎓
+* From University of Information Technology - Vietnam National University HCM 🎓
 * From [InsecLab](https://inseclab.uit.edu.vn/) with luv 😘
 * From [Green Onions](https://ctftime.org/team/194346) team 🧅
 
